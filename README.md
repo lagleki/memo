@@ -1,4 +1,6 @@
-# memo
+## change remote
+
+git remote set-url
 
 ## replace recusrsively in all files
 
